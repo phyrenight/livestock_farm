@@ -1,0 +1,19 @@
+html{
+  height: 100%;
+  margin: 2px 5px;
+}
+
+h1 {
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+li {
+  display: inline-block
+}
